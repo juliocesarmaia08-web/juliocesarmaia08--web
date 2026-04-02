@@ -1,4 +1,6 @@
-Olá me chamo Julio Maia, tenho 22 anos, sou estudante de Engenharia de Software. Sou um Programador Front-End, estudando no DevClub...
+- Olá me chamo Julio Maia, tenho 22 anos, sou estudante de Engenharia de Software :arrows_counterclockwise::mortar_board:
+-  Sou um Programador Front-End :rocket::computer:
+-  estudando no DevClub  :pencil: :chart:
 <br>
 <br>
 Principais Ferramentas Utilizadas:
